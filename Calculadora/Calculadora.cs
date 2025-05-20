@@ -1,13 +1,13 @@
 namespace EspacioCalculadora;
 
 public class Calculadora{
-    private float dato;
-    private float resultado;
+    private double dato;
+    private double resultado;
 
-    public float Dato { get => dato; set => dato = value; }
-    public float Resultado { get => resultado;}
+    public double Dato { get => dato; set => dato = value; }
+    public double Resultado { get => resultado;}
     public void Sumar(double termino){
-        
+
     }
     public void Restar( double termino){
 
