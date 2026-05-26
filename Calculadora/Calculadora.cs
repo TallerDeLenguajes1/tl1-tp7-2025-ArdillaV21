@@ -40,6 +40,8 @@ namespace EspacioCalculadora{
         {
             dato=0;
         }
+
+        public double Resultado => dato;
         
     }
 }
